@@ -1,4 +1,4 @@
-# 581RidesharingProject
+# 581 Ridesharing Project
 CS 581 - DBMS Ridesharing Project
 
 # Instructions on How to Run
